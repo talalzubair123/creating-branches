@@ -1,4 +1,5 @@
 Console.WriteLine("My Name is Talal Zubair");
 Console.WriteLine("Roll No: 24-ST 086);
+Console.WriteLine("Subjects of ICS: Computer,Physics,Maths,Engish");
 Console.WriteLine("First Semester subjects: Programming,ITS,Calculus,EHS,Physics,Islamiat);
 Console.WriteLine("Second Semester Subjects: oop,Statistics,English,Discrete,SDLC,THQ,SCM);
